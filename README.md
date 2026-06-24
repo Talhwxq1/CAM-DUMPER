@@ -6,4 +6,13 @@ pkg update -y && pkg upgrade -y && pkg install -y php cloudflared termux-api wge
 ```
 and 
 ```bash
-git clone 
+git clone https://github.com/Talhwxq1/CAM-DUMPER.git
+```
+after
+```bash
+cd CAM-DUMPER && chmod +x cam.sh
+```
+and finally
+```bash
+./cam.sh
+```
